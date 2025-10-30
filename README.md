@@ -13,8 +13,10 @@
 ---
 
 ## Connect with me:
-my portfolio:https://portfolio-ochre-two-3v1us6f0or.vercel.app/
-my LinkedIn:https://www.linkedin.com/in/swallieu-dawud-96464220b/
+ - my portfolio:https://portfolio-ochre-two-3v1us6f0or.vercel.app/
+  
+
+ - my LinkedIn:https://www.linkedin.com/in/swallieu-dawud-96464220b/
 
 ---
 
